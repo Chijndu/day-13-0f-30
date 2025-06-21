@@ -15,6 +15,7 @@
 .btn{
     padding: 10px 60px;
     background: #fff;
+    color: black;
     border: 0;
     outline: none;
     cursor: pointer;
@@ -71,6 +72,8 @@
     width: 300px;
     padding: 0 30px 30px;
     }
+    .btn{
+    color: black;
     .popup img{
     width: 80px;
     }
